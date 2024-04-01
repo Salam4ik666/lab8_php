@@ -27,3 +27,8 @@
 8. Используя инструкции include и require, соедините все файлы в index.php.
 9. По необходимости добавьте другие файлы, например, файлы с дополнительными
 функциями в /handlers/functions.php.
+
+![image](https://github.com/Salam4ik666/lab8_php/assets/159524637/11b44b2e-1692-4ef4-a72f-841d60c0fcc7)
+![image](https://github.com/Salam4ik666/lab8_php/assets/159524637/a530cc09-2f6e-453b-8a90-7506bfa531bd)
+![image](https://github.com/Salam4ik666/lab8_php/assets/159524637/3bed5e3a-d612-48e2-b3ab-afef7a80e8d9)
+
